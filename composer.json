@@ -30,7 +30,7 @@
   },
   "minimum-stability": "dev",
   "autoload": {
-    "psr-4": {"PhpbbSessionsAuthBundle\\": ""}
+    "psr-4": {"Phpbb\\SessionsAuthBundle\\": ""}
   },
   "extra": {
     "branch-alias": {
