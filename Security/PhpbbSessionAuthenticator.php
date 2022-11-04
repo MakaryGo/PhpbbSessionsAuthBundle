@@ -8,7 +8,7 @@
  *
  */
 
-namespace phpBB\SessionsAuthBundle\Security;
+namespace Phpbb\SessionsAuthBundle\Security;
 
 use Symfony\Component\HttpFoundation\{Request, Response, RedirectResponse};
 use Symfony\Component\Security\Core\Authentication\Token\TokenInterface;

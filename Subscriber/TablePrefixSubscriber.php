@@ -6,7 +6,7 @@
  * @license MIT
  *
  */
-namespace phpBB\SessionsAuthBundle\Subscriber;
+namespace Phpbb\SessionsAuthBundle\Subscriber;
 
 use Doctrine\Common\EventSubscriber;
 use Doctrine\ORM\Event\LoadClassMetadataEventArgs;

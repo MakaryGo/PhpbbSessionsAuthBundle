@@ -6,7 +6,7 @@
  * @license MIT
  *
  */
-namespace phpBB\SessionsAuthBundle\Entity;
+namespace Phpbb\SessionsAuthBundle\Entity;
 
 use Doctrine\ORM\Mapping as ORM;
 use Symfony\Component\Security\Core\Role\Role;

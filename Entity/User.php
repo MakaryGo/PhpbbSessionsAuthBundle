@@ -6,7 +6,7 @@
  * @license MIT
  *
  */
-namespace phpBB\SessionsAuthBundle\Entity;
+namespace Phpbb\SessionsAuthBundle\Entity;
 
 use Doctrine\Common\Collections\ArrayCollection;
 use Doctrine\ORM\Mapping as ORM;

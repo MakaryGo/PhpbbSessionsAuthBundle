@@ -8,7 +8,7 @@
  *
  */
 
-namespace phpBB\SessionsAuthBundle\Security;
+namespace Phpbb\SessionsAuthBundle\Security;
 
 use Doctrine\Bundle\DoctrineBundle\Registry;
 use Doctrine\ORM\EntityManagerInterface;

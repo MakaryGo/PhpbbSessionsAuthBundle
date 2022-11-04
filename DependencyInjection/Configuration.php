@@ -8,7 +8,7 @@
  *
  */
 
-namespace phpBB\SessionsAuthBundle\DependencyInjection;
+namespace Phpbb\SessionsAuthBundle\DependencyInjection;
 
 use Symfony\Component\Config\Definition\Builder\TreeBuilder;
 use Symfony\Component\Config\Definition\ConfigurationInterface;
