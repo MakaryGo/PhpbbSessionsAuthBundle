@@ -25,7 +25,7 @@ class TablePrefixSubscriber implements EventSubscriber
     /**
      * Namespace the entity is in
      */
-    private static $ENTITY_NAMESPACE = 'phpBB\\SessionsAuthBundle\\Entity';
+    private static $ENTITY_NAMESPACE = 'Phpbb\\SessionsAuthBundle\\Entity';
     /**
      * Entity that will receive the prefix
      */

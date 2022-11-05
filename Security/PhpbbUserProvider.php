@@ -12,7 +12,7 @@ namespace Phpbb\SessionsAuthBundle\Security;
 
 use Doctrine\Bundle\DoctrineBundle\Registry;
 use Doctrine\ORM\EntityManagerInterface;
-use phpBB\SessionsAuthBundle\Entity\{Session, SessionKey, User};
+use Phpbb\SessionsAuthBundle\Entity\{Session, SessionKey, User};
 use Symfony\Component\Security\Core\User\{UserInterface, UserProviderInterface};
 
 class PhpbbUserProvider implements UserProviderInterface
